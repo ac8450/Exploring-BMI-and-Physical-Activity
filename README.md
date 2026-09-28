@@ -60,15 +60,15 @@ https://www.kaggle.com/datasets/ziya07/student-physical-education-performance
 ## Analysis
 
 ### Height vs. Weight
-plt.savefig("height-vs-weight.png", dpi=300, bbox_inches="tight")
-<img src="images/height-vs-weight.png" width="700">
+
+<img src="images/height-vs-weight.png" width="500">
 
 We first examined the relationship between student height and weight.
 
 The analysis found a correlation coefficient of approximately **0.51**, indicating a moderate positive relationship between height and weight. However, students of similar heights still showed considerable variation in weight, suggesting that height alone does not fully explain differences in body composition.
 
 ### BMI and Physical Activity — YRBSS
-<img src="images/bmi-by-activity.png" width="700">
+<img src="images/bmi-by-activity.png" width="500">
 
 Students were divided into three physical activity groups based on the number of days they were active per week:
 
