@@ -18,6 +18,10 @@ The analysis focused on three main questions:
 - How does BMI vary between students with low, moderate, and high levels of physical activity?
 - Do similar BMI and physical activity patterns appear across two different student datasets?
 
+## Project Presentation
+
+[View the Final Project Presentation](Final%20Project%20Presentation.pdf)
+
 ## Datasets
 
 ### Youth Risk Behavior Surveillance System (YRBSS)
@@ -56,13 +60,13 @@ https://www.kaggle.com/datasets/ziya07/student-physical-education-performance
 ## Analysis
 
 ### Height vs. Weight
-
+![Height vs Weight](images/height-vs-weight.png)
 We first examined the relationship between student height and weight.
 
 The analysis found a correlation coefficient of approximately **0.51**, indicating a moderate positive relationship between height and weight. However, students of similar heights still showed considerable variation in weight, suggesting that height alone does not fully explain differences in body composition.
 
 ### BMI and Physical Activity — YRBSS
-
+![BMI by Activity](images/bmi-by-activity.png)
 Students were divided into three physical activity groups based on the number of days they were active per week:
 
 - **Low:** 0–2 days
