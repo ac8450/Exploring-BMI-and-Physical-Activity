@@ -60,6 +60,7 @@ https://www.kaggle.com/datasets/ziya07/student-physical-education-performance
 ## Analysis
 
 ### Height vs. Weight
+plt.savefig("height-vs-weight.png", dpi=300, bbox_inches="tight")
 <img src="images/height-vs-weight.png" width="700">
 
 We first examined the relationship between student height and weight.
